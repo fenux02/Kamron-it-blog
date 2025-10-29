@@ -21,7 +21,7 @@ const Home = () => {
                             Telagram Chanel
                         </a>
                         <a href="https://www.instagram.com/a6dullayev_dev?igsh=MWQwYWJkeDdzczB5Yw==" class="px-6 py-3 border border-blue-400 text-blue-400 rounded-lg font-medium hover:bg-blue-400 hover:text-gray-900 hover:scale-105 transition-all">
-                            Istagram Chanel 
+                            Istagram Chanel
                         </a>
                     </div>
                 </div>
