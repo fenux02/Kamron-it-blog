@@ -8,7 +8,7 @@ const Home = () => {
                 <div class="md:w-1/2 mb-12 md:mb-0 fade-in-up">
                     <h1  id="sectiontext" class="text-4xl md:text-5xl lg:text-6xl font-bold mb-6">
                         <span class="block text-[#fff]">Welcome!</span>
-                        <span class="block gradient-text">I'm Devionyx</span>
+                        <span class="block gradient-text">I'm Kamron-dev</span>
                         <span class="block typing-effect text-[#fff]">Web & Bot Developer</span>
                     </h1>
                     <p id="sectionptext" class="text-[25px] text-gray-300 mb-8 leading-relaxed">
